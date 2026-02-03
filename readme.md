@@ -43,18 +43,3 @@ https://github.com/adafruit/Adafruit_CircuitPython_Bundle
 Community library bundle<br>
 https://github.com/adafruit/CircuitPython_Community_Bundle/tree/main
 
-Air quality sensor (used for datalogger lessons)<br>
-https://github.com/adafruit/Adafruit_CircuitPython_SCD4X
-
-## Midi software
-
-PureData<br>
-https://puredata.info/downloads
-
-## Shops for electronic parts
-
-https://www.kiwi-electronics.com/<br>
-https://www.tinytronics.nl/<br>
-https://www.bitsandparts.nl/<br>
-https://www.conrad.nl/<br>
-https://www.reichelt.nl/<br>
