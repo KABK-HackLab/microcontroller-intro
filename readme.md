@@ -1,4 +1,4 @@
-# NLN HackLab Courses
+# HackLab Microcontroller introduction
 
 ## Raspberry Pico
 
