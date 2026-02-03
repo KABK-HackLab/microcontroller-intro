@@ -12,6 +12,9 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
 Circuitpython for raspberry pico<br>
 https://circuitpython.org/board/raspberry_pi_pico/
 
+Installing CircuitPython the board
+https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython
+
 Optionally install the nuke.utf2 file to clean a used pico<br>
 https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython
 
